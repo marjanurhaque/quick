@@ -7,18 +7,20 @@
 
 body{
 	font-family: 'Poppins', sans-serif;
-	width: 80%;
+	
 }
 
 header{
 	padding: 10px 0;
 	border-bottom: 1px solid #f2f3f5;
 	overflow: hidden;
+	width: 80%;
+	margin: 0 auto;
 }
 
 .wrapper {
 	width: 80%;
-	margin: 0 auto;
+	
 	overflow: hidden;
 }
 
