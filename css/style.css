@@ -26,7 +26,8 @@ header{
 
 .logo {
 	float: left;
-	width: 7%;
+	height: 7%;
+	padding: 10px 0;
 }
 
 .logo img{
@@ -51,7 +52,7 @@ header{
 	text-decoration: none;
 	display: inline-block;
 	font-size: 15px;
-	margin: 0 15px;
+	margin: 0 25px;
 	text-transform: capitalize;
 
 }
