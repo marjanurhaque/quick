@@ -100,6 +100,11 @@ header{
 	text-align: center;
 	font-size: 14px;
 }
+
+.hero .image {
+	width: 90%
+}
+
 .hero img {
 	width: 80%;
 }
