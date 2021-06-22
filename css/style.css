@@ -86,19 +86,19 @@ header{
 
 .hero h2 {
 	text-align: center;
-	font-size: 60px;
+	font-size: 55px;
 	color: #0C2354;
 }
 
 .hero span {
 	text-align: center;
-	font-size: 60px;
+	font-size: 55px;
 	color: #008AFF;
 }
 
 .hero p {
 	text-align: center;
-	font-size: 14px;
+	font-size: 16px;
 }
 
 .hero .image {
