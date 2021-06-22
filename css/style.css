@@ -159,26 +159,32 @@ header{
 .grid {
 	max-width: 87%;
 	margin: 0 auto;
-	
 }
 
+.box {
 
+}
 
 .box1 {
 	width: 30%;
 	background-color: #FDEBED;
 	float: left;
+	padding: 50px 0;
+	margin: 0 auto;
 }
 
 .box2 {
 	width: 30%;
 	background-color: #EBF9f4;
 	float: left;
+	padding: 50px 0;
+	margin: 0 auto;
 }
 
 .box3 {
 	width: 30%;
 	background-color: #FFF7E8;
-	float: right;
+	float: left;
+	padding: 50px 0;
+	margin: 0 auto;
 }
-
