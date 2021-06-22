@@ -116,7 +116,6 @@ header{
 .middle {
 	max-width: 65%;
 	margin: 0 auto;
-	
 
 }
 
@@ -157,45 +156,3 @@ header{
 	font-size: 14px;
 }
 
-.service-section { 
-	margin-top: 30px;
-	overflow: hidden;
-}
-.service-section .container {
-    overflow: hidden;
-}
-.service {
-    width: 32%;
-    float: left;
-    text-align: center;
-    padding: 40px 24px;
-}
-.service-img {
-    width: auto
-}
-.service-img img {
-    width: auto;
-}
-.service h3 {
-    font-size: 17px;
-    color: #0C2354;
-    margin-top: 10px;
-    margin-bottom: 10px;
-    text-align: left;
-}
-.service p {
-    font-size: 14px;
-    color: #1F305F;
-    line-height: 1.5;
-    text-align: left;
-}
-.service:nth-child(1) {
-    background-color: #FDEBED;
-}
-.service:nth-child(2) {
-    background-color: #EBF9F4;
-    margin: 0 21px;
-}
-.service:nth-child(3) {
-    background-color: #FFF7E8;
-}
