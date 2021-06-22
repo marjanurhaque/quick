@@ -126,7 +126,7 @@ header{
 }
 .left {
 	float: left;
-	width: 50%;
+	width: 55%;
 	padding: 0 10px;
 }
 
@@ -145,6 +145,7 @@ header{
 .right h3{
 	font-size: 35px;
 	color: #0C2354;
+	text-align: left;
 }
 
 .left p {
