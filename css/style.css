@@ -86,14 +86,14 @@ header{
 
 .hero h2 {
 	text-align: center;
-	font-size: 50px;
+	font-size: 60px;
 	color: #0C2354;
 }
 
 .hero span {
 	text-align: center;
 	font-size: 50px;
-	color: #F05666;
+	color: #008AFF;
 }
 
 .hero p {
@@ -101,5 +101,5 @@ header{
 	font-size: 14px;
 }
 .hero img {
-	width: 40%;
+	width: 100%;
 }
