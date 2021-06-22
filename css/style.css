@@ -15,14 +15,14 @@ header{
 	overflow: hidden;
 	width: 100%;
 	border-bottom: 1px solid #f2f3f5;
-	
+	margin: 0 auto;
 }
 
 .container{
 	
 	overflow: hidden;
 	width: 87%;
-	margin: 0 auto;
+	
 }
 
 .wrapper {
