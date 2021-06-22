@@ -11,21 +11,22 @@ body{
 }
 
 header{
-	padding: 10px 0;
-	border-bottom: 1px solid #f2f3f5;
+	
 	overflow: hidden;
 	width: 100%;
-	margin: 0 auto;
+	
 }
 
 .container{
+	padding: 10px 0;
+	border-bottom: 1px solid #f2f3f5;
 	overflow: hidden;
-	width: 100%;
+	width: 87%;
 	margin: 0 auto;
 }
 
 .wrapper {
-	width: 87%;
+	
 	margin: 0 auto;
 	overflow: hidden;
 }
