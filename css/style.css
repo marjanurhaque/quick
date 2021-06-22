@@ -19,7 +19,7 @@ header{
 }
 
 .container{
-	
+	padding: 10px 0;
 	overflow: hidden;
 	width: 87%;
 	
