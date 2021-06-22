@@ -116,8 +116,6 @@ header{
 .middle {
 	max-width: 65%;
 	margin: 0 auto;
-	padding-bottom: 30px;
-	display: inline;
 
 }
 
@@ -159,41 +157,54 @@ header{
 }
 
 .grid {
-	max-width: 87%;
-	margin: 0 auto;
-	overflow: hidden;
-	display: inline;
-	padding: 20px 20px 20px 0;
+	padding: 20px 0 60px 0;
 }
 
 .box {
-       max-width: 100%;
-	margin: 0 auto;
-
+	overflow: hidden;
 }
 
+
+
 .box1 {
-	min-width: 30%;
-	background-color: #FDEBED;
-	float: left;
-	padding-left: 50px;
-	
+	width: 32%;
+    float: left;
+    text-align: center;
+    padding: 40px 24px;
 }
 
 .box2 {
-	min-width: 30%;
+	width: 30%;
 	background-color: #EBF9f4;
 	float: left;
-	padding-left: 50px;
-	
+	padding: 50px 0;
+	margin: 0 auto;
 }
 
 .box3 {
-	min-width: 30%;
+	width: 30%;
 	background-color: #FFF7E8;
-	float: right;
-	
-}
-.box1 .box2 .box3 img {
-	max-width: 100%;
+	float: left;
+	padding: 50px 0;
 	margin: 0 auto;
+}
+
+.img {
+	width: 30%;
+	margin: 0 auto;
+
+}
+
+.box h3 {
+    font-size: 17px;
+    color: #0C2354;
+    margin-top: 10px;
+    margin-bottom: 10px;
+    text-align: left;
+}
+.box p {
+    font-size: 14px;
+    color: #1F305F;
+    line-height: 1.5;
+    text-align: left;
+}
