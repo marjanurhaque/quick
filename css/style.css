@@ -137,7 +137,7 @@ header{
 }
 
 .left h2 {
-	float: right;
+	text-align: right;
 	padding: 0 10px 0 0px;
 	font-size: 40px;
 	color: #F05666;
@@ -150,7 +150,6 @@ header{
 
 .mid p {
 	text-align: right;
-	float: left;
 	padding: 0 10px;
 	font-size: 14px;
 }
