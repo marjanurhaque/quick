@@ -163,8 +163,6 @@ header{
 }
 
 .box {
-	width: 100%;
-	display: inline;
 	padding: 20px 20px 20px 20px;
 
 }
@@ -173,21 +171,18 @@ header{
 	width: 30%;
 	background-color: #FDEBED;
 	float: left;
-	margin: 0 auto;
 }
 
 .box2 {
 	width: 30%;
 	background-color: #EBF9f4;
 	float: left;
-	margin: 0 auto;
 }
 
 .box3 {
 	width: 30%;
 	background-color: #FFF7E8;
 	float: right;
-	margin: 0 auto;
 }
 
 .box1 .box2 .box3 img {
