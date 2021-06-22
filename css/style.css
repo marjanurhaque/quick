@@ -130,6 +130,12 @@ header{
 	padding: 0 10px;
 }
 
+.right {
+	float: right;
+	width: 35%;
+	padding: 0 10px;
+}
+
 .left h2 {
 	float: right;
 	padding: 0 10px 0 0px;
