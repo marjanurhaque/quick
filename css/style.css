@@ -159,9 +159,11 @@ header{
 .grid {
 	max-width: 87%;
 	margin: 0 auto;
+	overflow: hidden;
 }
 
 .box {
+	overflow: hidden;
 
 }
 
