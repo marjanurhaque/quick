@@ -116,6 +116,8 @@ header{
 .middle {
 	max-width: 65%;
 	margin: 0 auto;
+	padding-bottom: 30px;
+	display: inline;
 
 }
 
@@ -189,3 +191,6 @@ header{
 	float: right;
 	
 }
+.box1 .box2 .box3 img {
+	max-width: 100%;
+	margin: 0 auto;
