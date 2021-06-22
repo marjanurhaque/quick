@@ -133,6 +133,7 @@ header{
 .right {
 	float: right;
 	padding: 0 10px;
+	width: 45%;
 }
 
 .left h2 {
