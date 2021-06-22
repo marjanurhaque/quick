@@ -165,6 +165,7 @@ header{
 .box {
 	width: 100%;
 	display: inline;
+	padding: 20px 20px 20px 20px;
 
 }
 
@@ -185,7 +186,7 @@ header{
 .box3 {
 	width: 30%;
 	background-color: #FFF7E8;
-	float: left;
+	float: right;
 	margin: 0 auto;
 }
 
