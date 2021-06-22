@@ -168,15 +168,12 @@ header{
     width: 32%;
     float: left;
     text-align: center;
-
     padding: 40px 24px;
 }
 .service-img {
-    /* border: 1px solid black; */
-    height: 190px;
+    width: auto
 }
 .service-img img {
-    /* border: 1px solid black; */
     width: auto;
 }
 .service h3 {
