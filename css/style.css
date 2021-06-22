@@ -167,10 +167,10 @@ header{
 
 
 .box1 {
-	width: 32%;
-    float: left;
-    text-align: center;
-    padding: 40px 24px;
+	width: 30%;
+        float: left;
+        text-align: center;
+        padding: 40px 24px;
 }
 
 .box2 {
@@ -190,7 +190,7 @@ header{
 }
 
 .img {
-	width: 30%;
+	width: auto;
 	margin: 0 auto;
 
 }
